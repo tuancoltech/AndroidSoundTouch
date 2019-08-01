@@ -23,7 +23,6 @@ android {
 
     }
     compileSdkVersion 26
-    buildToolsVersion "26.0.1"
     defaultConfig {
         applicationId "io.github.junyuecao.androidsoundeffect"
         minSdkVersion 21

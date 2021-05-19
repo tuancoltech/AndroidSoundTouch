@@ -67,5 +67,7 @@ public void onVoiceEnd() {
 ```
 - cd to this directory: /AndroidSoundTouch/soundtouch/src/main
 - Run ndk-build command
+- cd to: /AndroidSoundTouch/
+- Run: ./gradlew soundtouch:build
 ```
 
